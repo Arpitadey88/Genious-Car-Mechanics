@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel earum hic autem facere. Necessitatibus eum itaque libero distinctio rem. Veritatis?",
+        "img": "https://i.ibb.co/5Mdghvd/car-2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "WHEEL ALIGNMENT",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel earum hic autem facere. Necessitatibus eum itaque libero distinctio rem. Veritatis?",
+        "img": "https://i.ibb.co/qDnLZrP/car-1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "OIL CHANGING",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel earum hic autem facere. Necessitatibus eum itaque libero distinctio rem. Veritatis?",
+        "img": "https://i.ibb.co/mv4vsZC/car-5.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Brake Service and Repair",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel earum hic autem facere. Necessitatibus eum itaque libero distinctio rem. Veritatis?",
+        "img": "https://i.ibb.co/n1VVYGy/car-8.jpg"
+    },
+    {
+        "id": 5,
+        "name": "WASH AND GLASSING",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel earum hic autem facere. Necessitatibus eum itaque libero distinctio rem. Veritatis?",
+        "img": "https://i.ibb.co/W0rdXxc/car-6.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Cooling System Repairs",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel earum hic autem facere. Necessitatibus eum itaque libero distinctio rem. Veritatis?",
+        "img": "https://i.ibb.co/MZqyZdx/car-4.jpg"
+    }
+]
